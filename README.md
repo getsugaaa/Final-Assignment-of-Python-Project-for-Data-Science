@@ -1,1 +1,1 @@
-# Data extraction and visualization are essential components of data science, enabling informed decision-making based on insights drawn from the data. In this task, I'll be extracting stock data and presenting it visually through graphs.
+Data extraction and visualization are essential components of data science, enabling informed decision-making based on insights drawn from the data. In this task, I'll be extracting stock data and presenting it visually through graphs.
